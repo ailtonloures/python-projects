@@ -1,4 +1,4 @@
-from src.text_style import TextStyle
+from jogo_da_velha.src.text_style import TextStyle
 
 class Printer:
     
