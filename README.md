@@ -9,6 +9,14 @@ onde todo projeto seguirá um workflow padrão e assim os alunos também desenvo
 
 * Jogo da Velha
 
+## :ok_hand: O que está sendo ensinado
+
+* Python (Conceitos básicos de programação e sintaxe)
+* Git (Workflow)
+* Orientação a objeto
+* Ambiente virtual
+* Trabalho em equipe
+
 ## :boom: Equipe 
 | <img src="https://unavatar.now.sh/github/ailtonloures" alt="Ailton" width="150px" /> | <img src="https://unavatar.now.sh/github/gabcarvalhaes" alt="Gabriel" width="150px"/> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
