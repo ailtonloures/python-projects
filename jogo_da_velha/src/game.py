@@ -1,10 +1,10 @@
 import os
 
-from jogo_da_velha.src.players.player import Player
-from jogo_da_velha.src.players.player_o import PlayerO
-from jogo_da_velha.src.players.player_x import PlayerX
-from jogo_da_velha.src.printer import Printer
-from jogo_da_velha.src.text_style import TextStyle
+from src.players.player import Player
+from src.players.player_o import PlayerO
+from src.players.player_x import PlayerX
+from src.printer import Printer
+from src.text_style import TextStyle
 
 class Game:
     def __init__(self):

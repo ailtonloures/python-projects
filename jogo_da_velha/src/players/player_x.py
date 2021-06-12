@@ -1,4 +1,4 @@
-from jogo_da_velha.src.players.player import Player
+from src.players.player import Player
 
 class PlayerX(Player):
     
