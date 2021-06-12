@@ -1,3 +1,4 @@
 from jogo_da_velha.src.game import Game
 
-Game().start()
+if __name__ == "__main__":
+    Game().start()
