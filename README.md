@@ -1,11 +1,11 @@
 ## :books: Sobre
 
 O objetivo deste projeto é trabalhar e aperfeiçoar as habilidades e conhecimento na programação com linguagem Python junto com os alunos, 
-é um repositório colaborativo onde juntos iremos desenvolver diversos jogos de interface simples, porém com conceitos de programação avançados.
+é um repositório colaborativo onde juntos iremos desenvolver diversos projetos e jogos de interface simples, porém com conceitos de programação avançados.
 Além de ensinar a linguagem Python, iremos trabalhar com o Git também, 
 onde todo projeto seguirá um workflow padrão e assim os alunos também desenvolverão suas habilidades com o Git e consequentemente vão conhecendo o Github
 
-## :construction: Jogos sendo desenvolvidos
+## :construction: Projetos sendo desenvolvidos
 
 * Jogo da Velha
 * Jogo da Cobra
