@@ -8,6 +8,7 @@ onde todo projeto seguirá um workflow padrão e assim os alunos também desenvo
 ## :construction: Jogos sendo desenvolvidos
 
 * Jogo da Velha
+* Jogo da Cobra
 
 ## :ok_hand: O que está sendo ensinado
 
