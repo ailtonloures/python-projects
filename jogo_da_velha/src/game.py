@@ -29,15 +29,15 @@ class Game:
     def configPlayers(self) -> None:
         playerXName = str(input(TextStyle.DEFAULT + "Nome do jogador X (Xis): " + TextStyle.PRIMARY))
         playerOName = str(input(TextStyle.DEFAULT + "Nome do jogador O (Bola): " + TextStyle.PRIMARY))
-        firstPlayer = str(input(TextStyle.DEFAULT + "Quem será o primeiro a jogar (X/O)? " + TextStyle.PRIMARY))
+        firstPlayer = str(input(TextStyle.DEFAULT + "Quem será o primeiro a jogar (X/O)? " + TextStyle.PRIMARY)).upper()
         
-        self._playerX.name = playerXName
-        self._playerO.name = playerOName
+        self._playerX.setName(playerXName)
+        self._playerO.setName(playerOName)
         
-        if firstPlayer == "X" or firstPlayer == "x":
+        if firstPlayer == "X":
             self._firstPlayer = self._playerX
             self._secondPlayer = self._playerO
-        elif firstPlayer == "O" or firstPlayer == "o":
+        elif firstPlayer == "O":
             self._firstPlayer = self._playerO
             self._secondPlayer = self._playerX
         else:
@@ -60,13 +60,13 @@ class Game:
 
                 index += 1
 
-            if initialTurn >= 3:
+            if initialTurn >= 5:
                 if self.verifyResults() == True:
                     Printer.success("Jogo finalizado, o vencedor é " + playerReturn.name + ". Parabéns!")
                     
-                    playAgain = str(input(TextStyle.PRIMARY + "Deseja jogar novamente (s/n)? "))
+                    playAgain = str(input(TextStyle.PRIMARY + "Deseja jogar novamente (s/n)? ")).upper()
 
-                    if playAgain == "s" or playAgain == "S":
+                    if playAgain == "S":
                         Game().start()
                     else:
                         Printer.primary("Encerrando...")
