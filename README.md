@@ -19,9 +19,9 @@ onde todo projeto seguirá um workflow padrão e assim os alunos também desenvo
 * Trabalho em equipe
 
 ## :boom: Equipe 
-| <img src="https://unavatar.now.sh/github/ailtonloures" alt="Ailton" width="150px" /> | <img src="https://unavatar.now.sh/github/gabcarvalhaes" alt="Gabriel" width="150px"/> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Ailton Loures <br/>(@ailtonloures) (Mentor)                | Gabriel Carvalhaes <br/> (@gabcarvalhaes)                         |
+| <img src="https://unavatar.now.sh/github/ailtonloures" alt="Ailton" width="150px" /> | <img src="https://unavatar.now.sh/github/gabcarvalhaes" alt="Gabriel" width="150px"/> | <img src="https://unavatar.now.sh/github/brianathayde" alt="Brian" width="150px"/> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Ailton Loures <br/>(@ailtonloures) (Mentor)                  | Gabriel Carvalhaes <br/> (@gabcarvalhaes)                    | Brian Athayde <br/> (@brianathayde)                    |
 
 ## :pencil: Licença
 
