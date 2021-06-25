@@ -1,3 +1,5 @@
+# Author: Brian
+
 import os
 class Game:
     def __init__(self):
