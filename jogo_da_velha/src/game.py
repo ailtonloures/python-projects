@@ -1,4 +1,7 @@
+#Author: Gabriel
+
 import os
+
 class Game:
     def __init__(self):
         pass
